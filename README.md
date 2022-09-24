@@ -16,3 +16,6 @@ If you do not want any of these features, you can delete the corrisponding .cfg 
 
 # Install
 Just drag and drop into the GameData folder.
+
+# How To Not have OPM Dependancy
+In case you don't have/want OPM, download the No-OPM Version
